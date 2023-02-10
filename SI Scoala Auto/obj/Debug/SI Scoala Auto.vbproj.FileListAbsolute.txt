@@ -1,0 +1,11 @@
+C:\Users\gabic\source\repos\SI Scoala Auto\SI Scoala Auto\bin\Debug\SI Scoala Auto.exe.config
+C:\Users\gabic\source\repos\SI Scoala Auto\SI Scoala Auto\bin\Debug\SI Scoala Auto.exe
+C:\Users\gabic\source\repos\SI Scoala Auto\SI Scoala Auto\bin\Debug\SI Scoala Auto.pdb
+C:\Users\gabic\source\repos\SI Scoala Auto\SI Scoala Auto\bin\Debug\SI Scoala Auto.xml
+C:\Users\gabic\source\repos\SI Scoala Auto\SI Scoala Auto\obj\Debug\SI Scoala Auto.vbproj.AssemblyReference.cache
+C:\Users\gabic\source\repos\SI Scoala Auto\SI Scoala Auto\obj\Debug\SI_Scoala_Auto.Resources.resources
+C:\Users\gabic\source\repos\SI Scoala Auto\SI Scoala Auto\obj\Debug\SI Scoala Auto.vbproj.GenerateResource.cache
+C:\Users\gabic\source\repos\SI Scoala Auto\SI Scoala Auto\obj\Debug\SI Scoala Auto.vbproj.CoreCompileInputs.cache
+C:\Users\gabic\source\repos\SI Scoala Auto\SI Scoala Auto\obj\Debug\SI Scoala Auto.exe
+C:\Users\gabic\source\repos\SI Scoala Auto\SI Scoala Auto\obj\Debug\SI Scoala Auto.xml
+C:\Users\gabic\source\repos\SI Scoala Auto\SI Scoala Auto\obj\Debug\SI Scoala Auto.pdb
